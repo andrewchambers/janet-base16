@@ -1,5 +1,6 @@
 (declare-project
   :name "base16"
+  :description "Base 16 encoding/decoding of buffers."
   :author "Andrew Chambers"
   :license "MIT"
   :url "https://github.com/andrewchambers/janet-base16"
